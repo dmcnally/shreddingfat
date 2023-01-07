@@ -13,12 +13,6 @@
   text-color: #999999;
 }
 
-/* TODO: Make this appear open by default on larger screens */
-/*details > summary {
-  list-style: none;
-}
-*/
-
 p {
   @apply pt-4;
 }
